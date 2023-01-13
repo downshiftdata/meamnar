@@ -1,10 +1,15 @@
 # The Kingdom of Hylar
 
 **Population:**
+
 **Government:** Monarchy
+
 **Religions:**
+
 **Imports:**
+
 **Exports:**
+
 **Alignment:** LG, LN, NG
 
 description

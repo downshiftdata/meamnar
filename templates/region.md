@@ -1,10 +1,15 @@
 # name
 
 **Population:**
+
 **Government:**
+
 **Religions:**
+
 **Imports:**
+
 **Exports:**
+
 **Alignment:**
 
 description
